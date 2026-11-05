@@ -3,7 +3,7 @@
 A React Native (Expo, Typescript) app that lets a chef capture, view, manage, search and analyse the dishes on their menu.
 
 - GitHiub repo: https://github.com/konisebe20-rgb/ChefsApp-3/edit/main/README.md
-- **Video demostration:**_ video link
+- Video demostration: https://youtu.be/ULMT9zixJUI
 
 # how to run
 
@@ -78,4 +78,10 @@ Final PoE
 - Used `useMemo` for the search and filter results so the list is only recalculated when the dishes, search text or course change.
 - Moved all styles into one `StyleSheet.create` block, grouped by screen.
 
- 
+
+
+ Reference
+GitHub Link: https://github.com/konisebe20-rgb/Chef-s-Menu
+YouTube Link: https://youtu.be/ULMT9zixJUI
+Meta Platforms, Inc., n.d. React Native – Learn once, write anywhere. [ Online]
+Available at: https://reactive.dev/ [ Accessed 9 September 2026]. Meta Platforms, Inc., n.d. React – The library for web and native user interfaces. [ Online} Available at: https://react.dev/ [ Accessed 9 September 2026].
