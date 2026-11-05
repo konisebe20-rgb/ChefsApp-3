@@ -2,7 +2,7 @@
 
 A React Native (Expo, Typescript) app that lets a chef capture, view, manage, search and analyse the dishes on their menu.
 
-- **GitHiub repo:** _Paste your repo link here_
+- GitHiub repo: konisebe20-rgb/ChefsApp-3/blob/main/README.md
 - **Video demostration:**_ video link
 
 # how to run
